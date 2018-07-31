@@ -1,0 +1,3 @@
+Este dia empezamos configurando el programa con nuestro nombre y correo de usuario en GitHub
+Creamos un archivo lo guardamos y tambien lo comentamos
+Vimos como observar los cambios, y tambien los comentarios, vinculamos un archivo a nuestra cuenta y demas.
